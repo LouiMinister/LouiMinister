@@ -1,4 +1,14 @@
-### Hi there 👋
+### DongJae Lee 
+
+Hello👋. I'm DongJae. I feel happiness when I grow up from dev experience.
+I want to be a developer who wants to work together
+
+### Interesting in
+* Back-End technology such as Express and Spring
+* Front-End technology such as React
+* Working with good people 👯
+* Playing games 😄
+
 
 <!--
 **LouiMinister/LouiMinister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,5 @@
 ### DongJae Lee 
-
- Hello👋. I'm DongJae. I feel happiness when I grow up from dev experience. 
+ Hello 👋. I'm DongJae. I feel happiness when I grow up from dev experience. 
  I want to be a developer who wants to work together.
 
 ### Interesting in

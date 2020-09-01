@@ -1,7 +1,7 @@
 ### DongJae Lee 
 
-Hello👋. I'm DongJae. I feel happiness when I grow up from dev experience.
-I want to be a developer who wants to work together
+ Hello👋. I'm DongJae. I feel happiness when I grow up from dev experience. 
+ I want to be a developer who wants to work together.
 
 ### Interesting in
 * Back-End technology such as Express and Spring

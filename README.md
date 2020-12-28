@@ -5,7 +5,7 @@
 ### Interesting in
 * Back-End technology such as Express and Spring
 * Front-End technology such as React
-* Working with good people 👯
+* Working with good teammates 👯
 * Playing games 😄
 
 

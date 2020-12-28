@@ -1,3 +1,5 @@
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LouiMinister&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ### DongJae Lee 
  * Hello 👋. I'm DongJae.
  * I want to be a developer that other developers want to work with.
@@ -6,9 +8,9 @@
 * Back-End tech such as Express & Spring
 * Front-End tech such as React
 * Working with good teammates 👯
-* Playing games 😄
+* Playing games 🕹
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LouiMinister)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLouiMinister&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 

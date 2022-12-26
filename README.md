@@ -5,7 +5,7 @@
  * I want to be a developer that other developers want to work with.
 
 ### Interesting in
-* Back-End tech such as Express & Spring
+* Back-End tech such as Express & Spring & NestJS
 * Front-End tech such as React
 * Working with good teammates 👯
 * Playing games 🕹
@@ -13,8 +13,8 @@
 ⚡ Activity
 * FIIT.corp S.W. Engineer
 * SoongSil Univ computer science undergraduated
-* BoostCamp 7th camper
-
+* [NAVER Connect Foundation] boostcamp web·mobile challange
+* [NAVER Connect Foundation] boostcamp web·mobile membership
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLouiMinister&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=eastash)](https://solved.ac/eastash)

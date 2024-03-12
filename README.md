@@ -9,6 +9,7 @@
 * Front-End tech such as React
 * Working with good teammates 👯
 * Playing games 🕹
+* Playing guitar 🎸
 
 ⚡ Activity
 * FIIT.corp S.W. Engineer

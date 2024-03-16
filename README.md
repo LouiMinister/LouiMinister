@@ -11,7 +11,7 @@
 * Playing guitar 🎸
 
 ⚡ Activity
-* FIIT.corp S.W. Engineer
+* FITT.corp S.W. Engineer
 * SoongSil Univ computer science undergraduated
 * [NAVER Connect Foundation] boostcamp web·mobile 7th challange 
 * [NAVER Connect Foundation] boostcamp web·mobile 7th membership
